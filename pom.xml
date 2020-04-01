@@ -8,7 +8,7 @@
     <artifactId>leetcode</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>day.one.single.number</module>
+        <module>day.one</module>
     </modules>
 
     <name>leetcode</name>
