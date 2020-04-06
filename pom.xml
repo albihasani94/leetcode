@@ -11,6 +11,8 @@
         <module>day.one</module>
         <module>day.two</module>
         <module>day.three</module>
+        <module>day.four</module>
+        <module>day.five</module>
     </modules>
 
     <name>leetcode</name>
